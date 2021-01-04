@@ -1,0 +1,72 @@
+@media (max-width: 991px){
+    .hero-heading{
+        font-size: 45px;
+    }
+}
+
+@media (max-width: 768px){
+    .hero-heading{
+        font-size: 40px;
+    }
+    .hero-area p{
+        font-size: 16px;
+    }
+    p{
+        font-size: 16px;
+    }
+    .choose-area p{
+        font-size: 16px;
+    }
+    .choose-area h1{
+        font-size: 40px;
+    }
+    .about-area h1{
+        font-size: 40px;
+    }
+    .misssion h1{
+        font-size: 40px;
+    }
+    .contact h1{
+        font-size: 40px;
+    }
+}
+
+@media (max-width: 500px){
+    .hero-heading{
+        font-size: 32px;
+    }
+    .hero-area p{
+        font-size: 12px;
+    }
+    p{
+        font-size: 12px;
+    }
+    .choose-area p{
+        font-size: 12px;
+    }
+    .choose-area h1{
+        font-size: 32px;
+    }
+    .about-area h1{
+        font-size: 32px;
+    }
+    .misssion h1{
+        font-size: 32px;
+    }
+    .contact h1{
+        font-size: 32px;
+    }
+    .footer .socila-icon ul li{
+        float: none;
+        text-align: center;
+    }
+    .footer .socila-icon ul li a i{
+        font-size: 22px;
+    }
+    .navbar-light .navbar-toggler{
+        color: #ffffff;
+        border-color: #ffffff;
+        position: relative;
+        left: 0;
+    }
+}
